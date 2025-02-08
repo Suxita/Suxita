@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Misho! 👋
 
-<!--
-**Suxita/Suxita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying **Computer Science** at **Tbilisi State University (TSU)**  
+☕ Java enthusiast  
+💻 Passionate about backend development and testing  
+<br>
 
-Here are some ideas to get you started:
+## 📚 Currently Learning  
+🔹 **Spring Framework** – Developing backend applications  
+🔹 **Selenium** – Automating testing with Java  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages & Tools  
+<p align="left">
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
+  <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img alt="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg"/>
+  <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  
+  
+</p>
+<br>
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misho-suxishvili-8ab872330)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mishosukhishvili@gmail.com)  
+
+
