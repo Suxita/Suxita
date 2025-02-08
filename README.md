@@ -6,8 +6,8 @@
 <br>
 
 ## 📚 Currently Learning  
-🔹 **Spring Framework** – Developing backend applications  
-🔹 **Selenium** – Automating testing with Java  
+🔹 **Spring Framework**    <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> 
+🔹 **Selenium** <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
 <br>
 
 ## 🧰 Languages & Tools  
@@ -16,8 +16,6 @@
   <img alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
   <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img alt="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg"/>
-  <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   
