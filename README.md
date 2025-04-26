@@ -1,8 +1,6 @@
 ## Hi there, I'm Misho! 👋
 
 🎓 Currently studying **Computer Science** at **Tbilisi State University (TSU)**  
-☕ Java enthusiast  
-💻 Passionate about backend development and testing  
 
 📚 Currently Learning  
  🔹 **Spring Framework**    
