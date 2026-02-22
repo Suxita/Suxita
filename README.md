@@ -4,10 +4,8 @@
 
 <img src="tsu.png" height="18"/> &nbsp; **CS Student** · Tbilisi State University (TSU)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suxita&show_icons=true&theme=tokyonight&hide_border=true)
 
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suxita&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats-inky-six-76.vercel.app/api/top-langs/?username=Suxita&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
 ### 📫 Connect With Me  
 
